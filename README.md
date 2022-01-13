@@ -42,11 +42,14 @@ Creating this project I had a opportunity to practice my HTML and CSS skills and
 
 ### Feel free to contact me:
 
-* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/)
+* [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/) - Ewelina Kopacz
 
 ### Project preview
 
 ![Project-preview](./assets/project-preview.png)
+
+### Thanks for project and support to Mateusz Bogolubow:
+* Mentor i Trener Programowania JavaScript - [See a website](https://devmentor.pl/) - Mateusz Bogolubow
 
 
 
