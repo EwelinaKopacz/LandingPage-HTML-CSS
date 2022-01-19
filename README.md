@@ -1,5 +1,7 @@
 # Project HTML & CSS - basic
 
+## About the project:
+
 My first project from scratch - landing page. I used HTML and CSS. 
 The landing page is based on Webscope project. This Landing page is not mobile-friendly.
 
@@ -15,7 +17,7 @@ The landing page is based on Webscope project. This Landing page is not mobile-f
 * Live Site URL: [E.Kopacz First Project](https://ekopacz-first-project.netlify.app)
 
 ## Solutions
-Creating this project I had a opportunity to practice my HTML and CSS skills and learned few CSS properties like:
+Creating this project I had an opportunity to practice my HTML and CSS skills and learned few CSS properties like:
 
 * transform-origin:
 
@@ -49,7 +51,8 @@ Creating this project I had a opportunity to practice my HTML and CSS skills and
 ![Project-preview](./assets/project-preview.png)
 
 ### Thanks for project and support to Mateusz Bogolubow:
-* Mentor i Trener Programowania JavaScript - [See a website](https://devmentor.pl/) - Mateusz Bogolubow
+* Mentor i Trener Programowania JavaScript - [DevMentor](https://devmentor.pl/) - Mateusz Bogolubow
+
 
 
 
