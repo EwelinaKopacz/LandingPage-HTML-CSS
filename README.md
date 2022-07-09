@@ -1,11 +1,20 @@
 # Project HTML & CSS - basic
 
-## About the project:
+## Table of Contents
+1. [About the project](#about-the-project)
+2. [Technologies](#technologies)
+3. [Links](#links)
+4. [Solutions](#solutions)
+5. [Project preview](#project-preview)
+6. [Contact](#feel-free-to-contact-me)
+7. [Thanks](#thanks-for-project-and-support-to-Mateusz-Bogolubow)
+
+## About the project
 
 My first project from scratch - landing page. I used HTML and CSS. 
 The landing page is based on Webscope project. This Landing page is not mobile-friendly.
 
-## Technologies:
+## Technologies
 
 * HTML5
 * CSS3
@@ -42,13 +51,13 @@ Creating this project I had an opportunity to practice my HTML and CSS skills an
  }
  ```
 
-### Feel free to contact me:
+ ### Project preview
+![Project-preview](./assets/project-preview.png)
 
+
+### Feel free to contact me:
 * [Linkedin](https://www.linkedin.com/in/ewelina-kopacz-929559100/) - Ewelina Kopacz
 
-### Project preview
-
-![Project-preview](./assets/project-preview.png)
 
 ### Thanks for project and support to Mateusz Bogolubow:
 * Mentor i Trener Programowania JavaScript - [DevMentor](https://devmentor.pl/) - Mateusz Bogolubow
